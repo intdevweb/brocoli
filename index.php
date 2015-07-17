@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>google</title>
+	<title>brocoli</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/style1.css">	
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<h1>liste deroulante</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, quia, exercitationem expedita natus aliquam maxime blanditiis reprehenderit molestiae dignissimos fuga possimus magni. Quasi, facilis mollitia aut placeat voluptate vero explicabo?</p>
 	<div id="affiche">
 	<select name="list" action="">
 		<option value="0">faites un choix</option>
