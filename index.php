@@ -9,6 +9,7 @@
 </head>
 <body>
 	<h1>liste deroulante</h1>
+	<h1>liste deroulante</h1>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, quia, exercitationem expedita natus aliquam maxime blanditiis reprehenderit molestiae dignissimos fuga possimus magni. Quasi, facilis mollitia aut placeat voluptate vero explicabo?</p>
 	<div id="affiche">
 	<select name="list" action="">
