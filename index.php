@@ -5,7 +5,7 @@
 	<title>brocoli</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/style1.css">	
-
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<h1>liste deroulante</h1>
